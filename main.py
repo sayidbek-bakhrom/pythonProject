@@ -3,7 +3,7 @@ import ssl
 
 
 my_email = "abahrom1700@gmail.com"
-password = "20212022"
+password = ""
 receiver = "sayidbekbakhrom@gmail.com"
 port = 587
 

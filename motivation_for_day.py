@@ -4,7 +4,7 @@ import smtplib
 import ssl
 
 my_email = "abahrom1700@gmail.com"
-password = "20212022"
+password = ""
 receiver = "bsayidbek@yahoo.com"
 
 port = 587
